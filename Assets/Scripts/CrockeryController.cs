@@ -6,7 +6,7 @@ public class CrockeryController : MonoBehaviour
     {
         if (collision.collider.tag == "food")
         {
-
+            
         }
     }
 }

@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: b725fb1ce70076f488fd1f7ffd2bc0a3
+timeCreated: 1510850757
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _leaf
+    100002: _root
+    100004: p00
+    100006: p01
+    100008: p02
+    100010: p03
+    100012: p04
+    100014: p05
+    100016: p06
+    100018: p07
+    100020: p08
+    100022: p09
+    100024: p10
+    100026: p11
+    100028: p12
+    100030: p13
+    100032: p14
+    100034: p15
+    100036: p16
+    100038: p17
+    100040: p18
+    100042: p19
+    100044: p20
+    100046: p21
+    100048: p22
+    100050: p23
+    100052: p24
+    100054: p25
+    100056: p26
+    100058: p27
+    100060: p28
+    100062: p29
+    100064: //RootNode
+    400000: _leaf
+    400002: _root
+    400004: p00
+    400006: p01
+    400008: p02
+    400010: p03
+    400012: p04
+    400014: p05
+    400016: p06
+    400018: p07
+    400020: p08
+    400022: p09
+    400024: p10
+    400026: p11
+    400028: p12
+    400030: p13
+    400032: p14
+    400034: p15
+    400036: p16
+    400038: p17
+    400040: p18
+    400042: p19
+    400044: p20
+    400046: p21
+    400048: p22
+    400050: p23
+    400052: p24
+    400054: p25
+    400056: p26
+    400058: p27
+    400060: p28
+    400062: p29
+    400064: //RootNode
+    2300000: _leaf
+    2300002: _root
+    2300004: p00
+    2300006: p01
+    2300008: p02
+    2300010: p03
+    2300012: p04
+    2300014: p05
+    2300016: p06
+    2300018: p07
+    2300020: p08
+    2300022: p09
+    2300024: p10
+    2300026: p11
+    2300028: p12
+    2300030: p13
+    2300032: p14
+    2300034: p15
+    2300036: p16
+    2300038: p17
+    2300040: p18
+    2300042: p19
+    2300044: p20
+    2300046: p21
+    2300048: p22
+    2300050: p23
+    2300052: p24
+    2300054: p25
+    2300056: p26
+    2300058: p27
+    2300060: p28
+    2300062: p29
+    3300000: _leaf
+    3300002: _root
+    3300004: p00
+    3300006: p01
+    3300008: p02
+    3300010: p03
+    3300012: p04
+    3300014: p05
+    3300016: p06
+    3300018: p07
+    3300020: p08
+    3300022: p09
+    3300024: p10
+    3300026: p11
+    3300028: p12
+    3300030: p13
+    3300032: p14
+    3300034: p15
+    3300036: p16
+    3300038: p17
+    3300040: p18
+    3300042: p19
+    3300044: p20
+    3300046: p21
+    3300048: p22
+    3300050: p23
+    3300052: p24
+    3300054: p25
+    3300056: p26
+    3300058: p27
+    3300060: p28
+    3300062: p29
+    4300000: _root
+    4300002: _leaf
+    4300004: p21
+    4300006: p22
+    4300008: p13
+    4300010: p14
+    4300012: p16
+    4300014: p15
+    4300016: p19
+    4300018: p20
+    4300020: p18
+    4300022: p17
+    4300024: p25
+    4300026: p26
+    4300028: p28
+    4300030: p27
+    4300032: p23
+    4300034: p24
+    4300036: p29
+    4300038: p00
+    4300040: p03
+    4300042: p04
+    4300044: p02
+    4300046: p01
+    4300048: p09
+    4300050: p10
+    4300052: p12
+    4300054: p11
+    4300056: p07
+    4300058: p08
+    4300060: p06
+    4300062: p05
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: edible
+    second: {fileID: 2100000, guid: 06dec2b8aed36704f927cc5440c9e9e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaf
+    second: {fileID: 2100000, guid: 01f06b458f1bb704081294eec8a36446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: root
+    second: {fileID: 2100000, guid: efe03963399aa3b4bb9bd24c96f510a0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
